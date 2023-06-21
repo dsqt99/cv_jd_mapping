@@ -1,0 +1,8 @@
+app.log
+__pycache__
+test.ipynb
+test.py 
+test.sh
+data
+static
+result.json

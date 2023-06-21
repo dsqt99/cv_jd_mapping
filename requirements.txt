@@ -1,0 +1,14 @@
+pandas
+pdf2image
+torch==1.9.0
+torchvision==0.10.0
+transformers
+scikit-learn
+flask
+opencv-contrib-python==4.5.5.62
+ultralytics
+easyocr==1.6.2
+langdetect
+googletrans==4.0.0-rc1
+pyvi
+requests
